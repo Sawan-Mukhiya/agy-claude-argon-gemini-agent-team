@@ -3,7 +3,7 @@
 A lightweight, ready-to-use team of AI agents for Google's Antigravity CLI (`agy`).
 
 Instead of having one model do everything, this setup gives you a smart division of labor:
-- **A smart lead model** (Claude 3.5/3.7 Sonnet, Opus, or Gemini 4 Argon) acts as the supervisor—breaking down problems, planning steps, and coordinating work.
+- **A smart lead model** (Claude's Sonnet, Opus, or Gemini 4 Argon) acts as the supervisor—breaking down problems, planning steps, and coordinating work.
 - **Lightning-fast Gemini 3.8 Flash subagents** handle the heavy lifting—exploring the codebase, reproducing bugs, writing focused code fixes, and verifying diffs.
 
 This gives you deep, reliable reasoning for decisions while keeping subagent tasks fast, responsive, and token-efficient.
