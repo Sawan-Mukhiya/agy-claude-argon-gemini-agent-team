@@ -12,9 +12,6 @@ tools:
   - edit_file
   - run_command
   - manage_task
-  - call_mcp_tool
-  - list_resources
-  - read_resource
 mainAgent: true
 subagent: false
 model: inherit

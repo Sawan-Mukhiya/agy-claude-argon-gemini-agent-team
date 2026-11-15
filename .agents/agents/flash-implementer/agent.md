@@ -8,9 +8,6 @@ tools:
   - run_command
   - manage_task
   - send_message
-  - call_mcp_tool
-  - list_resources
-  - read_resource
 subagent: true
 mainAgent: false
 model: flash

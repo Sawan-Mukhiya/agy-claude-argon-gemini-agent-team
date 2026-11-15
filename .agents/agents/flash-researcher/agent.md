@@ -6,9 +6,6 @@ tools:
   - search_web
   - run_command
   - send_message
-  - call_mcp_tool
-  - list_resources
-  - read_resource
 subagent: true
 mainAgent: false
 model: flash
