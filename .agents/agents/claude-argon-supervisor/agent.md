@@ -10,14 +10,11 @@ tools:
   - read_file
   - write_file
   - edit_file
-  - view_file
-  - list_dir
-  - find_by_name
-  - grep_search
-  - write_to_file
-  - replace_file_content
   - run_command
   - manage_task
+  - call_mcp_tool
+  - list_resources
+  - read_resource
 mainAgent: true
 subagent: false
 model: inherit
